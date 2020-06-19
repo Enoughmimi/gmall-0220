@@ -20,13 +20,13 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="284c5fa5-7d6b-45f2-8513-6ca90df6ba61" name="Default Changelist" comment="111" />
+    <list default="true" id="284c5fa5-7d6b-45f2-8513-6ca90df6ba61" name="Default Changelist" comment="111">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,19 +149,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -177,13 +165,17 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="165" y="0" width="1115" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1592451067143" />
-    <state x="219" y="6" key="Vcs.Push.Dialog.v2" timestamp="1592451035836">
+    <state x="219" y="6" key="Vcs.Push.Dialog.v2" timestamp="1592451773594">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="219" y="6" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1592451035836" />
+    <state x="219" y="6" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1592451773594" />
     <state x="485" y="232" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592451005139">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="485" y="232" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1592451005139" />
+    <state x="189" y="0" key="git4idea.branch.GitSmartOperationDialog" timestamp="1592451758755">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="189" y="0" key="git4idea.branch.GitSmartOperationDialog/0.0.1280.720@0.0.1280.720" timestamp="1592451758755" />
   </component>
 </project>

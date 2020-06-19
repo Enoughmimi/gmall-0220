@@ -11,17 +11,10 @@
         <module name="gmall-sms" />
         <module name="gmall-oms" />
         <module name="gmall-commons" />
-<<<<<<< HEAD
-        <module name="gmall-admin-web" />
-        <module name="gmall-api" />
-        <module name="gmall-pms" />
-        <module name="gmall-ums" />
-=======
         <module name="gmall-ums" />
         <module name="gmall-admin-web" />
         <module name="gmall-pms" />
         <module name="gmall-api" />
->>>>>>> master
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
