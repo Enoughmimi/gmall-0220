@@ -20,12 +20,15 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="284c5fa5-7d6b-45f2-8513-6ca90df6ba61" name="Default Changelist" comment="111">
+    <list default="true" id="284c5fa5-7d6b-45f2-8513-6ca90df6ba61" name="Default Changelist" comment="222">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-sms/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-sms/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -130,6 +133,8 @@
       <updated>1591582601958</updated>
       <workItem from="1591582606171" duration="485000" />
       <workItem from="1592450916160" duration="305000" />
+      <workItem from="1592558528345" duration="244000" />
+      <workItem from="1592969685749" duration="86000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1592451024441</created>
@@ -138,7 +143,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592451024441</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="111">
+      <created>1592558601075</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592558601075</updated>
+    </task>
+    <task id="LOCAL-00003" summary="222">
+      <created>1592558647880</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592558647880</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,17 +177,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="111" />
-    <option name="LAST_COMMIT_MESSAGE" value="111" />
+    <MESSAGE value="222" />
+    <option name="LAST_COMMIT_MESSAGE" value="222" />
   </component>
   <component name="WindowStateProjectService">
     <state x="165" y="0" width="1115" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592451067143">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="165" y="0" width="1115" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1592451067143" />
-    <state x="219" y="6" key="Vcs.Push.Dialog.v2" timestamp="1592451773594">
+    <state x="219" y="6" key="Vcs.Push.Dialog.v2" timestamp="1592558748896">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="219" y="6" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1592451773594" />
+    <state x="219" y="6" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1592558748896" />
     <state x="485" y="232" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592451005139">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
