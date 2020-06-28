@@ -25,8 +25,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="284c5fa5-7d6b-45f2-8513-6ca90df6ba61" name="Default Changelist" comment="111">
-      <change beforePath="$PROJECT_DIR$/gmall-sms/src/main/resources/ceshi" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-sms/src/main/resources/ceshi" afterDir="false" />
+    <list default="true" id="284c5fa5-7d6b-45f2-8513-6ca90df6ba61" name="Default Changelist" comment="444">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +46,13 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Enoughmimi/gmall-0220.git" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -74,6 +81,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
@@ -139,6 +152,7 @@
       <workItem from="1592450916160" duration="305000" />
       <workItem from="1592558528345" duration="244000" />
       <workItem from="1592969685749" duration="86000" />
+      <workItem from="1592983513231" duration="190000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1592451024441</created>
@@ -161,7 +175,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592558647880</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="333">
+      <created>1592970163706</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592970163706</updated>
+    </task>
+    <task id="LOCAL-00005" summary="444">
+      <created>1592970208994</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592970208994</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,17 +210,19 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="111" />
     <MESSAGE value="222" />
-    <option name="LAST_COMMIT_MESSAGE" value="222" />
+    <MESSAGE value="333" />
+    <MESSAGE value="444" />
+    <option name="LAST_COMMIT_MESSAGE" value="444" />
   </component>
   <component name="WindowStateProjectService">
     <state x="165" y="0" width="1115" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592451067143">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="165" y="0" width="1115" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1592451067143" />
-    <state x="219" y="6" key="Vcs.Push.Dialog.v2" timestamp="1592970025847">
+    <state x="219" y="6" key="Vcs.Push.Dialog.v2" timestamp="1592970371622">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="219" y="6" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1592970025847" />
+    <state x="219" y="6" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1592970371622" />
     <state x="485" y="232" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592451005139">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
